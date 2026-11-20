@@ -1,0 +1,168 @@
+
+[
+  {
+    "question": "Co znamená HTML?",
+    "answers": [
+      "HyperText Markup Language",
+      "HighText Machine Language",
+      "Hyper Transfer Main Link",
+      "Home Tool Markup Language"
+    ],
+    "correct": 0,
+    "explanation": "HTML je značkovací jazyk pro strukturu webových stránek."
+  },
+  {
+    "question": "Jaký tag slouží pro hlavní nadpis?",
+    "answers": [
+      "<p>",
+      "<h1>",
+      "<title>",
+      "<head>"
+    ],
+    "correct": 1,
+    "explanation": "Tag h1 označuje hlavní nadpis stránky."
+  },
+  {
+    "question": "Který tag vytvoří odkaz?",
+    "answers": [
+      "<link>",
+      "<url>",
+      "<a>",
+      "<href>"
+    ],
+    "correct": 2,
+    "explanation": "Pro odkazy se používá tag a s atributem href."
+  },
+  {
+    "question": "Jak vložíš obrázek do HTML?",
+    "answers": [
+      "<picture-url>",
+      "<image>",
+      "<photo>",
+      "<img>"
+    ],
+    "correct": 3,
+    "explanation": "Tag img zobrazuje obrázek pomocí atributu src."
+  },
+  {
+    "question": "Co obsahuje tag body?",
+    "answers": [
+      "Viditelný obsah stránky",
+      "Pouze metadata",
+      "Pouze CSS",
+      "Pouze název stránky"
+    ],
+    "correct": 0,
+    "explanation": "Body obsahuje obsah webu, který se zobrazuje uživateli."
+  },
+  {
+    "question": "K čemu se používá CSS?",
+    "answers": [
+      "K ukládání dat",
+      "Ke stylování stránky",
+      "K tvorbě databází",
+      "K provozu serveru"
+    ],
+    "correct": 1,
+    "explanation": "CSS určuje vzhled, barvy, velikosti a rozložení."
+  },
+  {
+    "question": "Která CSS vlastnost mění barvu textu?",
+    "answers": [
+      "font-color",
+      "text-color",
+      "color",
+      "background"
+    ],
+    "correct": 2,
+    "explanation": "CSS vlastnost color nastavuje barvu textu."
+  },
+  {
+    "question": "Jak v CSS vybereš prvek s id='menu'?",
+    "answers": [
+      ".menu",
+      "menu",
+      "*menu",
+      "#menu"
+    ],
+    "correct": 3,
+    "explanation": "Znak # označuje v CSS selektor ID."
+  },
+  {
+    "question": "Co dělá margin v CSS?",
+    "answers": [
+      "Vnější odsazení prvku",
+      "Barvu pozadí",
+      "Velikost písma",
+      "Vnitřní odsazení prvku"
+    ],
+    "correct": 0,
+    "explanation": "Margin určuje vnější prostor kolem prvku."
+  },
+  {
+    "question": "Která hodnota zapne Flexbox?",
+    "answers": [
+      "display: grid",
+      "display: flex",
+      "position: flex",
+      "align: flex"
+    ],
+    "correct": 1,
+    "explanation": "Flexbox se aktivuje pomocí display: flex."
+  },
+  {
+    "question": "K čemu slouží JavaScript na webu?",
+    "answers": [
+      "Pouze k barvení textu",
+      "Pouze k ukládání obrázků",
+      "K interaktivitě stránky",
+      "K vytvoření HTML tagu"
+    ],
+    "correct": 2,
+    "explanation": "JavaScript umožňuje reagovat na akce uživatele."
+  },
+  {
+    "question": "Jak v JavaScriptu vypíšeš zprávu do konzole?",
+    "answers": [
+      "print()",
+      "write()",
+      "show()",
+      "console.log()"
+    ],
+    "correct": 3,
+    "explanation": "console.log slouží k vypisování zpráv do konzole."
+  },
+  {
+    "question": "Která událost reaguje na kliknutí?",
+    "answers": [
+      "click",
+      "hover",
+      "load",
+      "change"
+    ],
+    "correct": 0,
+    "explanation": "Událost click nastává při kliknutí na prvek."
+  },
+  {
+    "question": "Co znamená DOM?",
+    "answers": [
+      "Data Object Mode",
+      "Document Object Model",
+      "Digital Online Module",
+      "Document Output Method"
+    ],
+    "correct": 1,
+    "explanation": "DOM je objektová reprezentace dokumentu."
+  },
+  {
+    "question": "K čemu slouží localStorage?",
+    "answers": [
+      "Ke změně barvy",
+      "K načítání CSS",
+      "K ukládání dat v prohlížeči",
+      "K odesílání e-mailů"
+    ],
+    "correct": 2,
+    "explanation": "localStorage uchovává data i po zavření stránky."
+  }
+]
