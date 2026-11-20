@@ -4,11 +4,10 @@
 
 ## Jak hrát
 
-1. Otevři `index.html` a stiskni **Spustit hru**.
-2. Přečti otázku nad herní plochou. Padají čtyři možné odpovědi.
-3. Ovládej dron **šipkami vlevo/vpravo**, **A/D**, případně tlačítky **◀ ▶** na dotykové obrazovce.
-4. Chyť správnou odpověď. Po výběru se zobrazí vysvětlení, i když odpovíš špatně.
-5. Pokračuj přes **Další výzva** až po závěrečné vyhodnocení.
+1. Přečti otázku nad herní plochou. Padají čtyři možné odpovědi.
+2. Ovládej dron **šipkami vlevo/vpravo**, **A/D**, 
+3. Chyť správnou odpověď. Po výběru se zobrazí vysvětlení, i když odpovíš špatně.
+4. Pokračuj přes **Další výzva** až po závěrečné vyhodnocení.
 
 ## Vzdělávací záměr
 
